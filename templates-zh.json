@@ -1,0 +1,382 @@
+{
+  "version": "1.0",
+  "language": "zh",
+  "generated_at": "2025-11-12T19:18:05.854531",
+  "templates": [
+    {
+      "pattern_id": "well_starting_givingUp_betterSleep_timeManagement",
+      "habits": [
+        {
+          "id": "tpl_well_starting_givingUp_betterSleep_timeManagement_0",
+          "nameKey": "冥想5分钟",
+          "category": "mental",
+          "emoji": "🧘",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_starting_givingUp_betterSleep_timeManagement_1",
+          "nameKey": "睡前阅读15分钟",
+          "category": "mental",
+          "emoji": "📖",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_starting_givingUp_betterSleep_timeManagement_2",
+          "nameKey": "睡前伸展10分钟",
+          "category": "physical",
+          "emoji": "🤸",
+          "target_minutes": 10,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_starting_givingUp_betterSleep_timeManagement_3",
+          "nameKey": "计划明日事项10分钟",
+          "category": "mental",
+          "emoji": "🗓️",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_starting_givingUp_betterSleep_timeManagement_4",
+          "nameKey": "感恩日记5分钟",
+          "category": "mental",
+          "emoji": "✍️",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_starting_givingUp_betterSleep_timeManagement_5",
+          "nameKey": "散步20分钟",
+          "category": "physical",
+          "emoji": "🚶",
+          "target_minutes": 10,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        }
+      ],
+      "scenario_id": "91e39eed7ba7",
+      "fingerprint": {
+        "primaryIntent": "wellness",
+        "motivations": [
+          "betterSleep",
+          "timeManagement"
+        ],
+        "challenge": "givingUp",
+        "spiritualMaturity": "starting"
+      }
+    },
+    {
+      "pattern_id": "both_understandBible_physicalHealth_dontKnowStart",
+      "habits": [
+        {
+          "id": "tpl_both_understandBible_physicalHealth_dontKnowStart_0",
+          "nameKey": "Leer la Biblia 15 minutos",
+          "category": "spiritual",
+          "emoji": "📖",
+          "target_minutes": 15,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_understandBible_physicalHealth_dontKnowStart_1",
+          "nameKey": "Caminar 30 minutos",
+          "category": "physical",
+          "emoji": "🚶‍♀️",
+          "target_minutes": 30,
+          "difficulty": "hard",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_understandBible_physicalHealth_dontKnowStart_2",
+          "nameKey": "Orar 5 minutos",
+          "category": "spiritual",
+          "emoji": "🙏",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_understandBible_physicalHealth_dontKnowStart_3",
+          "nameKey": "Estiramientos 10 minutos",
+          "category": "physical",
+          "emoji": "🤸‍♀️",
+          "target_minutes": 10,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_understandBible_physicalHealth_dontKnowStart_4",
+          "nameKey": "Reflexión 5 minutos",
+          "category": "mental",
+          "emoji": "🤔",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_understandBible_physicalHealth_dontKnowStart_5",
+          "nameKey": "Dormir 8 horas",
+          "category": "physical",
+          "emoji": "😴",
+          "target_minutes": 10,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        }
+      ],
+      "scenario_id": "568a0e020e4a",
+      "fingerprint": {
+        "primaryIntent": "both",
+        "motivations": [
+          "understandBible",
+          "physicalHealth"
+        ],
+        "challenge": "dontKnowStart",
+        "spiritualMaturity": null
+      }
+    },
+    {
+      "pattern_id": "both_growInFaith_timeManagement_dontKnowStart",
+      "habits": [
+        {
+          "id": "tpl_both_growInFaith_timeManagement_dontKnowStart_0",
+          "nameKey": "Leer la Biblia 15 minutos",
+          "category": "spiritual",
+          "emoji": "📖",
+          "target_minutes": 15,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_growInFaith_timeManagement_dontKnowStart_1",
+          "nameKey": "Orar 10 minutos",
+          "category": "spiritual",
+          "emoji": "🙏",
+          "target_minutes": 10,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_growInFaith_timeManagement_dontKnowStart_2",
+          "nameKey": "Planificar el día 5 minutos",
+          "category": "mental",
+          "emoji": "🗓️",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_growInFaith_timeManagement_dontKnowStart_3",
+          "nameKey": "Caminar 20 minutos",
+          "category": "physical",
+          "emoji": "🚶‍♀️",
+          "target_minutes": 20,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_growInFaith_timeManagement_dontKnowStart_4",
+          "nameKey": "Llamar a un amigo 15 minutos",
+          "category": "relational",
+          "emoji": "📞",
+          "target_minutes": 15,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_growInFaith_timeManagement_dontKnowStart_5",
+          "nameKey": "Practicar la gratitud 5 minutos",
+          "category": "mental",
+          "emoji": "😊",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        }
+      ],
+      "scenario_id": "0b9dac7cf51b",
+      "fingerprint": {
+        "primaryIntent": "both",
+        "motivations": [
+          "growInFaith",
+          "timeManagement"
+        ],
+        "challenge": "dontKnowStart",
+        "spiritualMaturity": null
+      }
+    },
+    {
+      "pattern_id": "both_prayerDiscipline_timeManagement_lackOfMotivation",
+      "habits": [
+        {
+          "id": "tpl_both_prayerDiscipline_timeManagement_lackOfMotivation_0",
+          "nameKey": "祈祷 15 分钟",
+          "category": "spiritual",
+          "emoji": "🙏",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_prayerDiscipline_timeManagement_lackOfMotivation_1",
+          "nameKey": "阅读圣经 20 分钟",
+          "category": "spiritual",
+          "emoji": "📖",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_prayerDiscipline_timeManagement_lackOfMotivation_2",
+          "nameKey": "反思人生 10 分钟",
+          "category": "mental",
+          "emoji": "🤔",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_prayerDiscipline_timeManagement_lackOfMotivation_3",
+          "nameKey": "感恩日记 5 分钟",
+          "category": "mental",
+          "emoji": "📝",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_prayerDiscipline_timeManagement_lackOfMotivation_4",
+          "nameKey": "陪伴家人 30 分钟",
+          "category": "relational",
+          "emoji": "👨‍👩‍👧‍👦",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_prayerDiscipline_timeManagement_lackOfMotivation_5",
+          "nameKey": "规划日程 15 分钟",
+          "category": "mental",
+          "emoji": "🗓️",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        }
+      ],
+      "scenario_id": "cd7a5356d5b6",
+      "fingerprint": {
+        "primaryIntent": "both",
+        "motivations": [
+          "prayerDiscipline",
+          "timeManagement"
+        ],
+        "challenge": "lackOfMotivation",
+        "spiritualMaturity": null
+      }
+    },
+    {
+      "pattern_id": "faith_mature_dontKnowStart_closerToGod_overcomeHabits",
+      "habits": [
+        {
+          "id": "tpl_faith_mature_dontKnowStart_closerToGod_overcomeHabits_0",
+          "nameKey": "每日祈祷 5 分钟",
+          "category": "spiritual",
+          "emoji": "🙏",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_mature_dontKnowStart_closerToGod_overcomeHabits_1",
+          "nameKey": "每周阅读圣经 30 分钟",
+          "category": "spiritual",
+          "emoji": "📖",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_mature_dontKnowStart_closerToGod_overcomeHabits_2",
+          "nameKey": "每日感恩反思 5 分钟",
+          "category": "mental",
+          "emoji": "💭",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_mature_dontKnowStart_closerToGod_overcomeHabits_3",
+          "nameKey": "每周与家人共度 1 小时",
+          "category": "relational",
+          "emoji": "👨‍👩‍👧‍👦",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_mature_dontKnowStart_closerToGod_overcomeHabits_4",
+          "nameKey": "每日冥想 10 分钟",
+          "category": "spiritual",
+          "emoji": "🧘",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_mature_dontKnowStart_closerToGod_overcomeHabits_5",
+          "nameKey": "每周社区服务 30 分钟",
+          "category": "relational",
+          "emoji": "🤝",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        }
+      ],
+      "scenario_id": "e19cc6d843b2",
+      "fingerprint": {
+        "primaryIntent": "faithBased",
+        "motivations": [
+          "closerToGod",
+          "overcomeHabits"
+        ],
+        "challenge": "dontKnowStart",
+        "spiritualMaturity": "mature"
+      }
+    }
+  ]
+}

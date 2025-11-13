@@ -1,0 +1,382 @@
+{
+  "version": "1.0",
+  "language": "fr",
+  "generated_at": "2025-11-12T19:17:45.507680",
+  "templates": [
+    {
+      "pattern_id": "well_starting_dontKnowStart_betterSleep_physicalHealth",
+      "habits": [
+        {
+          "id": "tpl_well_starting_dontKnowStart_betterSleep_physicalHealth_0",
+          "nameKey": "Estirar 5 minutos",
+          "category": "physical",
+          "emoji": "🧘",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_starting_dontKnowStart_betterSleep_physicalHealth_1",
+          "nameKey": "Caminar 15 minutos",
+          "category": "physical",
+          "emoji": "🚶",
+          "target_minutes": 15,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_starting_dontKnowStart_betterSleep_physicalHealth_2",
+          "nameKey": "Mindfulness 5 minutos",
+          "category": "mental",
+          "emoji": "🧘‍♀️",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_starting_dontKnowStart_betterSleep_physicalHealth_3",
+          "nameKey": "Reflexionar 5 minutos",
+          "category": "mental",
+          "emoji": "🤔",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_starting_dontKnowStart_betterSleep_physicalHealth_4",
+          "nameKey": "Planificar 10 minutos",
+          "category": "mental",
+          "emoji": "🗓️",
+          "target_minutes": 10,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_starting_dontKnowStart_betterSleep_physicalHealth_5",
+          "nameKey": "Dormir 8 horas",
+          "category": "physical",
+          "emoji": "😴",
+          "target_minutes": 10,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        }
+      ],
+      "scenario_id": "b3d788138255",
+      "fingerprint": {
+        "primaryIntent": "wellness",
+        "motivations": [
+          "betterSleep",
+          "physicalHealth"
+        ],
+        "challenge": "dontKnowStart",
+        "spiritualMaturity": "starting"
+      }
+    },
+    {
+      "pattern_id": "well_starting_givingUp_productivity_betterSleep",
+      "habits": [
+        {
+          "id": "tpl_well_starting_givingUp_productivity_betterSleep_0",
+          "nameKey": "Meditación 5 minutos",
+          "category": "mental",
+          "emoji": "🧘",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_starting_givingUp_productivity_betterSleep_1",
+          "nameKey": "Caminar 15 minutos",
+          "category": "physical",
+          "emoji": "🚶‍♀️",
+          "target_minutes": 15,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_starting_givingUp_productivity_betterSleep_2",
+          "nameKey": "Gratitud 3 minutos",
+          "category": "mental",
+          "emoji": "🙏",
+          "target_minutes": 3,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_starting_givingUp_productivity_betterSleep_3",
+          "nameKey": "Estiramientos 10 minutos",
+          "category": "physical",
+          "emoji": "🤸‍♀️",
+          "target_minutes": 10,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_starting_givingUp_productivity_betterSleep_4",
+          "nameKey": "Planificación 5 minutos",
+          "category": "mental",
+          "emoji": "✍️",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_starting_givingUp_productivity_betterSleep_5",
+          "nameKey": "Reflexión 5 minutos",
+          "category": "spiritual",
+          "emoji": "💭",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        }
+      ],
+      "scenario_id": "d953d3ceb68e",
+      "fingerprint": {
+        "primaryIntent": "wellness",
+        "motivations": [
+          "productivity",
+          "betterSleep"
+        ],
+        "challenge": "givingUp",
+        "spiritualMaturity": "starting"
+      }
+    },
+    {
+      "pattern_id": "faith_new_lackOfTime_overcomeHabits_growInFaith",
+      "habits": [
+        {
+          "id": "tpl_faith_new_lackOfTime_overcomeHabits_growInFaith_0",
+          "nameKey": "Orar 5 min",
+          "category": "spiritual",
+          "emoji": "🙏",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_new_lackOfTime_overcomeHabits_growInFaith_1",
+          "nameKey": "Caminar 15 min",
+          "category": "physical",
+          "emoji": "🚶‍♀️",
+          "target_minutes": 15,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_new_lackOfTime_overcomeHabits_growInFaith_2",
+          "nameKey": "Reflexión 3 min",
+          "category": "mental",
+          "emoji": "🤔",
+          "target_minutes": 3,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_new_lackOfTime_overcomeHabits_growInFaith_3",
+          "nameKey": "Llamar a un amigo 5 min",
+          "category": "relational",
+          "emoji": "📞",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_new_lackOfTime_overcomeHabits_growInFaith_4",
+          "nameKey": "Lectura Bíblica 7 min",
+          "category": "spiritual",
+          "emoji": "📖",
+          "target_minutes": 7,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_new_lackOfTime_overcomeHabits_growInFaith_5",
+          "nameKey": "Estiramientos 5 min",
+          "category": "physical",
+          "emoji": "🤸‍♀️",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        }
+      ],
+      "scenario_id": "7853df930ab6",
+      "fingerprint": {
+        "primaryIntent": "faithBased",
+        "motivations": [
+          "overcomeHabits",
+          "growInFaith"
+        ],
+        "challenge": "lackOfTime",
+        "spiritualMaturity": "new"
+      }
+    },
+    {
+      "pattern_id": "both_overcomeHabits_productivity_lackOfMotivation",
+      "habits": [
+        {
+          "id": "tpl_both_overcomeHabits_productivity_lackOfMotivation_0",
+          "nameKey": "Méditer 5 minutes",
+          "category": "mental",
+          "emoji": "🧘",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_overcomeHabits_productivity_lackOfMotivation_1",
+          "nameKey": "Marcher 15 minutes",
+          "category": "physical",
+          "emoji": "🚶‍♀️",
+          "target_minutes": 15,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_overcomeHabits_productivity_lackOfMotivation_2",
+          "nameKey": "Planifier 10 minutes",
+          "category": "mental",
+          "emoji": "🗓️",
+          "target_minutes": 10,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_overcomeHabits_productivity_lackOfMotivation_3",
+          "nameKey": "Lecture biblique 5 minutes",
+          "category": "spiritual",
+          "emoji": "📖",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_overcomeHabits_productivity_lackOfMotivation_4",
+          "nameKey": "Exercice 20 minutes",
+          "category": "physical",
+          "emoji": "🏋️‍♀️",
+          "target_minutes": 20,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_both_overcomeHabits_productivity_lackOfMotivation_5",
+          "nameKey": "Réflexion 10 minutes",
+          "category": "mental",
+          "emoji": "🤔",
+          "target_minutes": 10,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        }
+      ],
+      "scenario_id": "11c88d78c84d",
+      "fingerprint": {
+        "primaryIntent": "both",
+        "motivations": [
+          "overcomeHabits",
+          "productivity"
+        ],
+        "challenge": "lackOfMotivation",
+        "spiritualMaturity": null
+      }
+    },
+    {
+      "pattern_id": "well_disciplined_lackOfTime_timeManagement_betterSleep",
+      "habits": [
+        {
+          "id": "tpl_well_disciplined_lackOfTime_timeManagement_betterSleep_0",
+          "nameKey": "Méditation 5 min",
+          "category": "mental",
+          "emoji": "🧘",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_disciplined_lackOfTime_timeManagement_betterSleep_1",
+          "nameKey": "Étirements 10 min",
+          "category": "physical",
+          "emoji": "🤸",
+          "target_minutes": 10,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_disciplined_lackOfTime_timeManagement_betterSleep_2",
+          "nameKey": "Planification 15 min",
+          "category": "mental",
+          "emoji": "📅",
+          "target_minutes": 15,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_disciplined_lackOfTime_timeManagement_betterSleep_3",
+          "nameKey": "Marche 20 min",
+          "category": "physical",
+          "emoji": "🚶",
+          "target_minutes": 20,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_disciplined_lackOfTime_timeManagement_betterSleep_4",
+          "nameKey": "Gratitude 5 min",
+          "category": "mental",
+          "emoji": "🙏",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_disciplined_lackOfTime_timeManagement_betterSleep_5",
+          "nameKey": "Famille 15 min",
+          "category": "relational",
+          "emoji": "👨‍👩‍👧‍👦",
+          "target_minutes": 15,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        }
+      ],
+      "scenario_id": "d844cafb0ffe",
+      "fingerprint": {
+        "primaryIntent": "wellness",
+        "motivations": [
+          "timeManagement",
+          "betterSleep"
+        ],
+        "challenge": "lackOfTime",
+        "spiritualMaturity": "disciplined"
+      }
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "version": "1.0",
+  "language": "es",
+  "generated_at": "2025-11-12T19:16:44.735737",
+  "templates": [
+    {
+      "pattern_id": "faith_growing_lackOfTime_closerToGod_prayerDiscipline",
+      "habits": [
+        {
+          "id": "tpl_faith_growing_lackOfTime_closerToGod_prayerDiscipline_0",
+          "nameKey": "Orar 5 Minutos",
+          "category": "spiritual",
+          "emoji": "🙏",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_growing_lackOfTime_closerToGod_prayerDiscipline_1",
+          "nameKey": "Reflexión 3 Minutos",
+          "category": "mental",
+          "emoji": "🤔",
+          "target_minutes": 3,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_growing_lackOfTime_closerToGod_prayerDiscipline_2",
+          "nameKey": "Gratitud 2 Minutos",
+          "category": "mental",
+          "emoji": "😊",
+          "target_minutes": 2,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_growing_lackOfTime_closerToGod_prayerDiscipline_3",
+          "nameKey": "Lectura 10 Minutos",
+          "category": "spiritual",
+          "emoji": "📖",
+          "target_minutes": 10,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_growing_lackOfTime_closerToGod_prayerDiscipline_4",
+          "nameKey": "Caminar 15 Minutos",
+          "category": "physical",
+          "emoji": "🚶‍♀️",
+          "target_minutes": 15,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_growing_lackOfTime_closerToGod_prayerDiscipline_5",
+          "nameKey": "Familia 20 Minutos",
+          "category": "relational",
+          "emoji": "👨‍👩‍👧‍👦",
+          "target_minutes": 20,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        }
+      ],
+      "scenario_id": "042c499895dc",
+      "fingerprint": {
+        "primaryIntent": "faithBased",
+        "motivations": [
+          "closerToGod",
+          "prayerDiscipline"
+        ],
+        "challenge": "lackOfTime",
+        "spiritualMaturity": "growing"
+      }
+    },
+    {
+      "pattern_id": "faith_mature_lackOfTime_prayerDiscipline_understandBible",
+      "habits": [
+        {
+          "id": "tpl_faith_mature_lackOfTime_prayerDiscipline_understandBible_0",
+          "nameKey": "Orar 5 min",
+          "category": "spiritual",
+          "emoji": "🙏",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_mature_lackOfTime_prayerDiscipline_understandBible_1",
+          "nameKey": "Leer Biblia 10 min",
+          "category": "spiritual",
+          "emoji": "📖",
+          "target_minutes": 10,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_mature_lackOfTime_prayerDiscipline_understandBible_2",
+          "nameKey": "Reflexionar 3 min",
+          "category": "mental",
+          "emoji": "🤔",
+          "target_minutes": 3,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_mature_lackOfTime_prayerDiscipline_understandBible_3",
+          "nameKey": "Gratitud 2 min",
+          "category": "mental",
+          "emoji": "😊",
+          "target_minutes": 2,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_mature_lackOfTime_prayerDiscipline_understandBible_4",
+          "nameKey": "Caminar 15 min",
+          "category": "physical",
+          "emoji": "🚶‍♀️",
+          "target_minutes": 15,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_mature_lackOfTime_prayerDiscipline_understandBible_5",
+          "nameKey": "Familia 10 min",
+          "category": "relational",
+          "emoji": "👨‍👩‍👧‍👦",
+          "target_minutes": 10,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        }
+      ],
+      "scenario_id": "5d6a30189d46",
+      "fingerprint": {
+        "primaryIntent": "faithBased",
+        "motivations": [
+          "prayerDiscipline",
+          "understandBible"
+        ],
+        "challenge": "lackOfTime",
+        "spiritualMaturity": "mature"
+      }
+    },
+    {
+      "pattern_id": "well_inconsistent_lackOfTime_physicalHealth_reduceStress",
+      "habits": [
+        {
+          "id": "tpl_well_inconsistent_lackOfTime_physicalHealth_reduceStress_0",
+          "nameKey": "Estirar 5 Minutos",
+          "category": "physical",
+          "emoji": "🤸",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_inconsistent_lackOfTime_physicalHealth_reduceStress_1",
+          "nameKey": "Caminar 10 Minutos",
+          "category": "physical",
+          "emoji": "🚶",
+          "target_minutes": 10,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_inconsistent_lackOfTime_physicalHealth_reduceStress_2",
+          "nameKey": "Mindfulness 3 Minutos",
+          "category": "mental",
+          "emoji": "🧘",
+          "target_minutes": 3,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_inconsistent_lackOfTime_physicalHealth_reduceStress_3",
+          "nameKey": "Reflexionar 5 Minutos",
+          "category": "mental",
+          "emoji": "🤔",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_inconsistent_lackOfTime_physicalHealth_reduceStress_4",
+          "nameKey": "Orar 5 Minutos",
+          "category": "spiritual",
+          "emoji": "🙏",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_well_inconsistent_lackOfTime_physicalHealth_reduceStress_5",
+          "nameKey": "Familia 15 Minutos",
+          "category": "relational",
+          "emoji": "👨‍👩‍👧‍👦",
+          "target_minutes": 15,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        }
+      ],
+      "scenario_id": "3799e3edb9aa",
+      "fingerprint": {
+        "primaryIntent": "wellness",
+        "motivations": [
+          "physicalHealth",
+          "reduceStress"
+        ],
+        "challenge": "lackOfTime",
+        "spiritualMaturity": "inconsistent"
+      }
+    },
+    {
+      "pattern_id": "faith_mature_lackOfMotivation_growInFaith_overcomeHabits",
+      "habits": [
+        {
+          "id": "tpl_faith_mature_lackOfMotivation_growInFaith_overcomeHabits_0",
+          "nameKey": "Orar 15 Minutos Diarios",
+          "category": "spiritual",
+          "emoji": "🙏",
+          "target_minutes": 15,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_mature_lackOfMotivation_growInFaith_overcomeHabits_1",
+          "nameKey": "Caminar 30 Minutos Al Día",
+          "category": "physical",
+          "emoji": "🚶",
+          "target_minutes": 30,
+          "difficulty": "hard",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_mature_lackOfMotivation_growInFaith_overcomeHabits_2",
+          "nameKey": "Lectura Bíblica 2 Capítulos",
+          "category": "spiritual",
+          "emoji": "📖",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_mature_lackOfMotivation_growInFaith_overcomeHabits_3",
+          "nameKey": "Reflexión 5 Minutos Matutinos",
+          "category": "mental",
+          "emoji": "🧠",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_mature_lackOfMotivation_growInFaith_overcomeHabits_4",
+          "nameKey": "Gratitud 3 Cosas Diarias",
+          "category": "mental",
+          "emoji": "😊",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_mature_lackOfMotivation_growInFaith_overcomeHabits_5",
+          "nameKey": "Servicio Comunitario 1 Hora Semanal",
+          "category": "relational",
+          "emoji": "🤝",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        }
+      ],
+      "scenario_id": "5902fbc402d4",
+      "fingerprint": {
+        "primaryIntent": "faithBased",
+        "motivations": [
+          "growInFaith",
+          "overcomeHabits"
+        ],
+        "challenge": "lackOfMotivation",
+        "spiritualMaturity": "mature"
+      }
+    },
+    {
+      "pattern_id": "faith_passionate_dontKnowStart_growInFaith_closerToGod",
+      "habits": [
+        {
+          "id": "tpl_faith_passionate_dontKnowStart_growInFaith_closerToGod_0",
+          "nameKey": "Orar 5 Minutos",
+          "category": "spiritual",
+          "emoji": "🙏",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_passionate_dontKnowStart_growInFaith_closerToGod_1",
+          "nameKey": "Leer Biblia 10 Minutos",
+          "category": "spiritual",
+          "emoji": "📖",
+          "target_minutes": 10,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_passionate_dontKnowStart_growInFaith_closerToGod_2",
+          "nameKey": "Caminar 15 Minutos",
+          "category": "physical",
+          "emoji": "🚶‍♀️",
+          "target_minutes": 15,
+          "difficulty": "medium",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_passionate_dontKnowStart_growInFaith_closerToGod_3",
+          "nameKey": "Gratitud 3 Minutos",
+          "category": "mental",
+          "emoji": "😊",
+          "target_minutes": 3,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_passionate_dontKnowStart_growInFaith_closerToGod_4",
+          "nameKey": "Llamar Familia 5 Minutos",
+          "category": "relational",
+          "emoji": "📞",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        },
+        {
+          "id": "tpl_faith_passionate_dontKnowStart_growInFaith_closerToGod_5",
+          "nameKey": "Reflexionar 5 Minutos",
+          "category": "mental",
+          "emoji": "🤔",
+          "target_minutes": 5,
+          "difficulty": "easy",
+          "subtasks": [],
+          "recommended_time": null
+        }
+      ],
+      "scenario_id": "87ca8e8a2655",
+      "fingerprint": {
+        "primaryIntent": "faithBased",
+        "motivations": [
+          "growInFaith",
+          "closerToGod"
+        ],
+        "challenge": "dontKnowStart",
+        "spiritualMaturity": "passionate"
+      }
+    }
+  ]
+}
