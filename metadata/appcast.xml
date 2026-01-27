@@ -1,0 +1,4 @@
+appcastConfig: AppcastConfiguration(
+  url: 'https://yourusername.github.io/yourrepo/appcast.xml',
+  supportedOS: ['android'],
+),
